@@ -47,11 +47,11 @@ function App() {
           <div className="text-center">
             <div className="inline-block shake">
               <button 
-                onClick={() => window.open('https://x.com/KanyeRug', '_blank', 'noopener,noreferrer')}
+                onClick={() => window.open('https://dexscreener.com/search?q=kanyerug', '_blank', 'noopener,noreferrer')}
                 className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-yellow-500 hover:to-orange-500 text-white font-bold py-4 px-8 rounded-full text-xl group relative transform hover:scale-110 transition-all duration-300"
               >
                 <span className="block group-hover:hidden">Buy $KANYERUG</span>
-                <span className="hidden group-hover:block">CA on X</span>
+                <span className="hidden group-hover:block">First token on Dexscreener</span>
               </button>
             </div>
             
